@@ -6,10 +6,10 @@
 <thumbnail> </thumbnail> 
 </item>
 
-<item>
- <title>[COLOR limegreen]Premium Top Crime[/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/mills/mills/6004.ts&streamtype=TSDOWNLOADER</link>
- <thumbnail> </thumbnail>
+<item> 
+<title>[COLOR limegreen]TNT[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/test/test/7661.ts&streamtype=TSDOWNLOADER&name=TNT</link> 
+<thumbnail> </thumbnail> 
 </item>
 	
 <item>
