@@ -28,7 +28,7 @@
 
 <item>
 <title>ABC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/2202.ts</link>
+<link>plugin://plugin.video.f4mTester/?name=test&streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/2202.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
