@@ -4,8 +4,14 @@
  <title>[COLOR limegreen]TNT[/COLOR]</title> 
  <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/test/test/7661.ts&streamtype=TSDOWNLOADER&name=TNT</link> 
  <thumbnail> </thumbnail> 
- </item>
  
+
+<item>
+ <title>[COLOR limegreen]Premium Top Crime[/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/mills/mills/6004.ts&streamtype=TSDOWNLOADER&name=Premium Top Crime</link>
+ <thumbnail> </thumbnail>
+</item>
+	
 <item>
 <title>E!</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/2914.ts</link>
