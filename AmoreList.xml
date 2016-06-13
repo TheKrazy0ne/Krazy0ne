@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>==== + ITALIAN MOVIE CHANNELS +====</title>
-</item>
-
-<item>
  <title>[COLOR limegreen]Premium Stories[/COLOR]</title> 
  <link>plugin://plugin.video.f4mTester/?url=http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1161.ts&streamtype=TSDOWNLOADER&name=Premium_Stories</link> 
  <thumbnail> </thumbnail> 
