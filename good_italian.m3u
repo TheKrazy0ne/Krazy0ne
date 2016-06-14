@@ -1,0 +1,147 @@
+#EXTM3U
+
+#EXTINF:0,IT-Mediaset 1 HD
+http://195.12.170.153:8003/play/IT-Sky-SportHD1
+#EXTINF:0,IT-TG 5
+http://195.12.170.153:8003/play/IT-SkyCalcio1HD
+#EXTINF:0,IT-TG 5
+http://195.12.170.153:8003/play/IT-Primafila15HD
+#EXTINF:0,IT-Super! HD
+http://195.12.170.153:8003/play/IT-Sky-UnoHD
+#EXTINF:0,IT-Rai5-HD
+http://195.12.170.153:8003/play/IT-Rai5-HD
+#EXTINF:0,IT-Rai1-HD
+http://195.12.170.153:8003/play/IT-Rai1-HD
+#EXTINF:0,IT-Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,IT-Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0,IT-Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:0,IT-RAI Storia
+mmsh://212.162.68.162:80/Rai_storia
+#EXTINF:0,IT-Rai Scuola
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:0,IT-TELE TICINO
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:0,IT-Rete 7
+http://video2.kronopress.com:1935/etv_live/rete7/playlist.m3u8
+#EXTINF:0,IT-Antenna 1
+http://video2.kronopress.com:1935/etv_live/antenna1/playlist.m3u8
+#EXTINF:0,IT-Antenna 3
+http://live.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+#EXTINF:0,IT-Teletricolore
+http://video2.kronopress.com:1935/etv_live/teletricolore/playlist.m3u8
+#EXTINF:0,IT-TELERAMA
+http://iphone-streaming.ustream.tv:80/uhls/20845752/streams/live/playlist.m3u8
+#EXTINF:0,IT-Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:0,IT-RETE 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+#EXTINF:0,IT-RTV SAN MARINO
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/livestream.m3u8
+#EXTINF:0,IT-TELE ARENA
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:0,IT-SARDEGNA UNO
+http://94.32.101.17:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:0,IT-QUARTARETE BLU
+http://194.116.73.146:1935/quartaretetv2/quartaretebluweb/live.m3u8
+#EXTINF:0,IT-QUARTARETE
+http://194.116.73.146:1935/quartaretetv/quartareteweb/live.m3u8
+#EXTINF:0,IT-QuartaRete Standup
+rtmp://wowza1.top-ix.org:1935/quartaretetv/quartareteweb
+#EXTINF:0,IT-Video Star
+rtmp://live1.kronopress.com:1935/videostar_live/videostar
+#EXTINF:0,IT-CTS 90
+rtmp://vod1.kronopress.com:1935/cts_live/cts
+#EXTINF:0,IT-Fano Tv
+http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+
+
+
+#EXTINF:0,IT-Cinema Classics HD
+http://195.12.170.153:8003/play/IT-Sky-Cinema-HitsHD
+#EXTINF:0,IT-Primafila7HD
+http://195.12.170.153:8003/play/IT-Primafila7HD
+#EXTINF:0,IT-Primafila3HD
+http://195.12.170.153:8003/play/IT-Primafila3HD
+#EXTINF:0,IT-Primafila1HD
+http://195.12.170.153:8003/play/IT-Primafila1HD
+#EXTINF:0,IT-Primafila11HD
+http://195.12.170.153:8003/play/IT-Primafila11HD
+#EXTINF:0,IT-Premium-Joi
+http://195.12.170.153:8003/play/IT-Premium-Joi
+#EXTINF:0,IT-Premium-Crime HD
+http://195.12.170.153:8003/play/IT-Premium-Crime
+#EXTINF:0,IT-Premium Cinema Comedy HD
+http://195.12.170.153:8003/play/IT-Sky-Cinema-ComedyHD
+#EXTINF:0,IT-Premium Cinema HD
+http://195.12.170.153:8003/play/IT-Sky-CInema-CultHD
+#EXTINF:0,IT-Premium Cinema 2 HD
+http://195.12.170.153:8003/play/IT-Sky-Cinema-PassionHD
+
+
+#EXTINF:0,IT-NAT-GEOHD
+http://195.12.170.153:8003/play/IT-NAT-GEOHD
+#EXTINF:0,IT-Animal Planet
+http://195.12.170.153:8003/play/IT-Premium-Energy
+#EXTINF:0,IT-UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist_b900000.m3u8
+#EXTINF:0,IT-TV 2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:0,IT-ALICE 
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,IT-Liri TV 
+rtmp://wz1.newradio.it:80/augusto538/augusto538
+
+#EXTINF:0,IT-SportItalia
+http://195.12.170.153:8003/play/IT-SportItalia
+#EXTINF:0,IT-SportItalia
+http://195.12.170.153:8003/play/IT-Rai-Sport1
+#EXTINF:0,IT-Rai Sport 2
+http://195.12.170.153:8003/play/IT-SkySuper-TennisHD
+#EXTINF:0,IT-RETE 8 SPORT
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+
+
+#EXTINF:0,IT-VIDEOLINA
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:0,IT-Euronews Italia
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:0,IT-Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:0,IT-SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0,IT-TRM H24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:0,IT-Tele 9 
+rtmp://212.43.117.218:1935/live/tele9 
+#EXTINF:0,IT-AB channel 
+rtmp://swtv24.tuttositiweb.com:1935/abchannel/livestream 
+#EXTINF:0,IT-Lucania TV 
+rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+#EXTINF:0,IT-TRC Modena 
+rtmp://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP
+#EXTINF:0,IT-Siena TV 
+rtmp://fl1.mediastreaming.it:1935/sienatv/livestream
+
+
+ 
+#EXTINF:0, M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0, FOR MUSIC TV
+http://194.116.73.146:1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:0, RADIO VIRGIN TV
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:0, RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:0, RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:0,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+#EXTINF:0,IT-TeleOLTRE 
+rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre  
+#EXTINF:0,IT-Radio Bruno TV 
+rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
+#EXTINF:0,IT-Company Tv 
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
