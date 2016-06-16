@@ -14,6 +14,8 @@ http://195.12.170.153:8003/play/IT-Primafila15HD
 http://195.12.170.153:8003/play/IT-Sky-UnoHD
 #EXTINF:0,IT-Rai-1
 http://195.12.170.153:8003/play/IT-Rai1-HD
+#EXTINF:0,IT-Rai-1 HD
+http://195.12.170.153:8003/play/IT-Rai1-HD
 #EXTINF:0,IT-Rai-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/simonian/simonian/6037.ts
 #EXTINF:0,IT-Rai-3
