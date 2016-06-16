@@ -11,7 +11,7 @@ http://195.12.170.153:8003/play/IT-Sky-UnoHD
 #EXTINF:0,IT-Rai1-HD
 http://195.12.170.153:8003/play/IT-Rai1-HD
 #EXTINF:0,IT-Rai2-HD
-http://stream12.rai.it/live/smil:rai2.smil/master.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/simonian/simonian/6037.ts
 #EXTINF:0,IT-Rai3-HD
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
 #EXTINF:0,IT-Rai4-HD
