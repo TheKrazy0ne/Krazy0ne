@@ -12,15 +12,15 @@ http://195.12.170.153:8003/play/IT-SkyCalcio1HD
 http://195.12.170.153:8003/play/IT-Primafila15HD
 #EXTINF:0,IT-Super! HD
 http://195.12.170.153:8003/play/IT-Sky-UnoHD
-#EXTINF:0,IT-Rai1-HD
-http://195.12.170.153:8003/play/IT-Rai1-HD
-#EXTINF:0,IT-Rai2-HD
+#EXTINF:0,IT-Rai-1
+http://195.12.170.153:8003/play/IT-Rai-1
+#EXTINF:0,IT-Rai-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/simonian/simonian/6037.ts
-#EXTINF:0,IT-Rai3-HD
+#EXTINF:0,IT-Rai-3
 http://93.50.199.29:9981/stream/channelid/1251208044?ticket=01E46D2DDC0CB848446A52920D229D1FED57DD37&profile=matroska
-#EXTINF:0,IT-Rai4-HD
+#EXTINF:0,IT-Rai-4
 http://originstream12.rai.it/italy/smil:rai4.smil/master.m3u8
-#EXTINF:0,IT-Rai5-HD
+#EXTINF:0,IT-Rai-5
 http://195.12.170.153:8003/play/IT-Rai5-HD
 #EXTINF:0,IT-Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
