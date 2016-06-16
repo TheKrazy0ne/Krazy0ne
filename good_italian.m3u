@@ -149,6 +149,10 @@ http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
 #EXTINF:0,IT-Premium Sport 2
 http://195.12.170.153:8003/play/IT-Sky-SportHD1
+#EXTINF:-1,IT-Sky-SportF1HD
+http://195.12.170.153:8003/play/IT-Sky-SportF1HD
+#EXTINF:-1,IT-SkyMotoGPHD
+http://195.12.170.153:8003/play/IT-SkyMotoGPHD
 
 #EXTINF:0,IT-Teleromagna News
 http://livetr.teleromagna.it/news/live/playlist.m3u8
