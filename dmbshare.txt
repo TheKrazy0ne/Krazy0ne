@@ -1,0 +1,14 @@
+http://cp.dmbshare.net:8000/get.php?username=melih&password=melih&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=mentor&password=mentor&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=paul1&password=paul1&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=christoph&password=christoph&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=rangel&password=rangel&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=simonian&password=simonian&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=stuart&password=stuart&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=slavko&password=slavko&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=erol&password=erol&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=christoph&password=christoph&type=m3u7
+http://cp.dmbshare.net:8000/get.php?username=cotton&password=cotton&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=jukka&password=jukka&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=cheryl&password=cheryl&type=m3u
+http://cp.dmbshare.net:8000/get.php?username=Mark&password=Mark&type=m3u
