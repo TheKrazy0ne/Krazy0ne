@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:0,IT-Mediaset Italia 1 HD
-http://195.12.170.153:8003/play/IT-Sky-SportHD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1262.ts
 #EXTINF:0,IT-Mediaset Italia 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/malburaih@hotmail.com/139071iptv/2793.ts
-#EXTINF:0,IT-Mediaset Extra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/malburaih@hotmail.com/139071iptv/2969.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1767.ts
+#EXTINF:0,IT-Mediaset Iris HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1173.ts
 #EXTINF:0,IT-TG 5
 http://195.12.170.153:8003/play/IT-SkyCalcio1HD
 #EXTINF:0,IT-TG 5
