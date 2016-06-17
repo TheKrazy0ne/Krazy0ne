@@ -203,3 +203,5 @@ rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
 rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
 #EXTINF:0,IT-Teleromagna Mia
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0, HD Discovery Canada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsat.mine.nu:8000/live/house/house/2291.ts
