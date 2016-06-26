@@ -1,25 +1,23 @@
 #EXTM3U
-
+#EXTINF:0, --- PREMIUM TV ---
 #EXTINF:0,IT-Mediaset Italia 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6048.ts
 #EXTINF:0,IT-Mediaset Italia 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1767.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/1620.ts
 #EXTINF:0,IT-Mediaset Iris HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/6794/6794/1173.ts
-#EXTINF:0,IT-TG 5
-http://195.12.170.153:8003/play/IT-SkyCalcio1HD
-#EXTINF:0,IT-TG 5
-http://195.12.170.153:8003/play/IT-Primafila15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/1619.ts
+#EXTINF:0,IT-Mediaset 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6061.ts
+#EXTINF:0,IT-Sky UNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6023.ts
 #EXTINF:0,IT-Super! HD
 http://195.12.170.153:8003/play/IT-Sky-UnoHD
-#EXTINF:0,IT-Rai-1
-http://195.12.170.153:8003/play/IT-Rai1-HD
 #EXTINF:0,IT-Rai-1 HD
-http://195.12.170.153:8003/play/IT-Rai1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/348.ts
 #EXTINF:0,IT-Rai-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/simonian/simonian/6037.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6037.ts
 #EXTINF:0,IT-Rai-3
-http://93.50.199.29:9981/stream/channelid/1251208044?ticket=01E46D2DDC0CB848446A52920D229D1FED57DD37&profile=matroska
+
 #EXTINF:0,IT-Rai-4
 http://originstream12.rai.it/italy/smil:rai4.smil/master.m3u8
 #EXTINF:0,IT-Rai-5
@@ -36,14 +34,33 @@ mmsh://212.162.68.162:80/Rai_storia
 http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:0,Rai Gulp TV
 mmsh://212.162.68.162:80/Rai_gulp
+#EXTINF:0,Rai Gulp TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2959.ts
+#EXTINF:0,IT-Rsi La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6029.ts
 #EXTINF:0,IT-La 5
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
 #EXTINF:0,IT-La 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/master.m3u8
 #EXTINF:0,IT-La 7d
 http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
+#EXTINF:0, Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/74.ts
 
 
+#EXTINF:0, Childrens TV
+#EXTINF:0, K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6046.ts
+#EXTINF:0, Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2667.ts
+#EXTINF:0, Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2670.ts
+#EXTINF:0, Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2665.ts
+#EXTINF:0, Disney Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/901.ts
+
+#EXTINF:0, --- Misc Channels ---
 #EXTINF:0,IT-Canale Italia 83
 http://broadcdn.streamcloud.it/ac024_broad/schedule/playlist.m3u8
 #EXTINF:0,IT-TELE TICINO
@@ -87,31 +104,59 @@ rtmp://vod1.kronopress.com:1935/cts_live/cts
 #EXTINF:0,IT-Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 
-
-
-#EXTINF:0,IT-Cinema Classics HD
-http://195.12.170.153:8003/play/IT-Sky-Cinema-HitsHD
-#EXTINF:0,IT-Primafila7HD
-http://195.12.170.153:8003/play/IT-Primafila7HD
-#EXTINF:0,IT-Primafila3HD
-http://195.12.170.153:8003/play/IT-Primafila3HD
-#EXTINF:0,IT-Primafila1HD
-http://195.12.170.153:8003/play/IT-Primafila1HD
-#EXTINF:0,IT-Primafila11HD
-http://195.12.170.153:8003/play/IT-Primafila11HD
-#EXTINF:0,IT-Premium-Joi
-http://195.12.170.153:8003/play/IT-Premium-Joi
+#EXTINF:0, --- Movie Channels ---
+#EXTINF:0,IT-Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/899.ts
+#EXTINF:0,IT-Paramount HD
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+#EXTINF:0,IT-Premium Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6063.ts
+#EXTINF:0,IT-Premium Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6011.ts
+#EXTINF:0,IT-Premium Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6009.ts
+#EXTINF:0,IT-Premium-Joi +24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6007.ts
 #EXTINF:0,IT-Premium-Crime HD
-http://195.12.170.153:8003/play/IT-Premium-Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6010.ts
 #EXTINF:0,IT-Premium Cinema Comedy HD
-http://195.12.170.153:8003/play/IT-Sky-Cinema-ComedyHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0,IT-Premium Cinema HD
-http://195.12.170.153:8003/play/IT-Sky-CInema-CultHD
-#EXTINF:0,IT-Premium Cinema 2 HD
-http://195.12.170.153:8003/play/IT-Sky-Cinema-PassionHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6014.ts
 #EXTINF:0,IT-Premium Cinema Energy
-http://195.12.170.153:8003/play/IT-Premium-Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6015.ts
+#EXTINF:0,IT-Premium Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/59.ts
+#EXTINF:0,IT-Sky Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/750.ts
+#EXTINF:0,IT-Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/752.ts
+#EXTINF:0,IT-Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/749.ts
+#EXTINF:0,IT-Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/751.ts
+#EXTINF:0,IT-Sky Cinema Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/755.ts
+#EXTINF:0,IT-Sky Cinema 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/748.ts
+#EXTINF:0,IT-Sky Cinema Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/61.ts
+#EXTINF:0,IT-Primafilia Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/68.ts
 
+#EXTINF:0, --- Documentary & Lifestyle ---
+#EXTINF:0,IT-Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2671.ts
+#EXTINF:0,IT-NAT-GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/906.ts
+#EXTINF:0,IT-NAT-GEO People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/907.ts
+#EXTINF:0,IT-Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6058.ts
+#EXTINF:0,IT-Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/780.ts
+#EXTINF:0,IT-Discovery Focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2060.ts
 #EXTINF:0,IT-MarcoPolo
 http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,IT-TSN Livigno
@@ -124,23 +169,20 @@ http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:0,IT-AutoMoto Tv
 rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
-#EXTINF:0,IT-NAT-GEOHD
-http://195.12.170.153:8003/play/IT-NAT-GEOHD
 #EXTINF:0,IT-Super TV
 rtmp://wms.shared.streamshow.it:443/supertv/supertv
-#EXTINF:0,IT-UNINETTUNO UNIVERSITY TV
-http://stream6.rai.it:80/live/uninettuno.smil/chunklist_b900000.m3u8
 #EXTINF:0,IT-TV 2000
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 #EXTINF:0,IT-ALICE 
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0,IT-Liri TV 
-rtmp://wz1.newradio.it:80/augusto538/augusto538
+#EXTINF:0,IT-ALICE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6064.ts
 
+#EXTINF:0, --- SPORTS TV ---
 #EXTINF:0,IT-SportItalia
-http://195.12.170.153:8003/play/IT-SportItalia
-#EXTINF:0,IT-SportItalia
-http://195.12.170.153:8003/play/IT-Rai-Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6022.ts
+#EXTINF:0,IT-EuroSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6054.ts
 #EXTINF:0,IT-Rai Sport 1
 http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,IT-Rai Sport 2
@@ -149,13 +191,14 @@ http://195.12.170.153:8003/play/IT-SkySuper-TennisHD
 http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
 #EXTINF:0,IT-Teleromagna Sport
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:0,IT-Premium Sport 2
-http://195.12.170.153:8003/play/IT-Sky-SportHD1
+#EXTINF:0,IT-Premium Sport 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6006.ts
 #EXTINF:-1,IT-Sky-SportF1HD
-http://195.12.170.153:8003/play/IT-Sky-SportF1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/765.ts
 #EXTINF:-1,IT-SkyMotoGPHD
-http://195.12.170.153:8003/play/IT-SkyMotoGPHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/766.ts
 
+#EXTINF:0, --- News & Info ---
 #EXTINF:0,IT-Teleromagna News
 http://livetr.teleromagna.it/news/live/playlist.m3u8
 #EXTINF:0,IT-ESPERIA TV
@@ -183,6 +226,7 @@ rtmp://fl1.mediastreaming.it:1935/sienatv/livestream
 #EXTINF:0,IT-JULIE ITALIA
 http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
  
+#EXTINF:0, --- Music TV ---
 #EXTINF:0, M2O TV
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0, FOR MUSIC TV
@@ -203,5 +247,4 @@ rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
 rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
 #EXTINF:0,IT-Teleromagna Mia
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:0, HD Discovery Canada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsat.mine.nu:8000/live/house/house/2291.ts
+
