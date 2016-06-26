@@ -2,7 +2,7 @@
 #EXTINF:0, --- PREMIUM TV ---
 
 #EXTINF:0,IT-Mediaset Italia 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/thatcher/thatcher/6047.ts
 #EXTINF:0,IT-Mediaset Italia 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/1620.ts
 #EXTINF:0,IT-Mediaset Iris HD
