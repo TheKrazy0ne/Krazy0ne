@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0, --- PREMIUM TV ---
+
 #EXTINF:0,IT-Mediaset Italia 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6048.ts
 #EXTINF:0,IT-Mediaset Italia 2 HD
@@ -48,7 +49,8 @@ http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/74.ts
 
 
-#EXTINF:0, Childrens TV
+#EXTINF:0, --- Childrens TV ----
+
 #EXTINF:0, K2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6046.ts
 #EXTINF:0, Cartoonito
@@ -61,6 +63,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-ip
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/901.ts
 
 #EXTINF:0, --- Misc Channels ---
+
 #EXTINF:0,IT-Canale Italia 83
 http://broadcdn.streamcloud.it/ac024_broad/schedule/playlist.m3u8
 #EXTINF:0,IT-TELE TICINO
@@ -105,6 +108,7 @@ rtmp://vod1.kronopress.com:1935/cts_live/cts
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 
 #EXTINF:0, --- Movie Channels ---
+
 #EXTINF:0,IT-Studio Universal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/899.ts
 #EXTINF:0,IT-Paramount HD
@@ -145,6 +149,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.ge
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/68.ts
 
 #EXTINF:0, --- Documentary & Lifestyle ---
+
 #EXTINF:0,IT-Animal Planet
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2671.ts
 #EXTINF:0,IT-NAT-GEO WILD
@@ -179,6 +184,7 @@ http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifes
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6064.ts
 
 #EXTINF:0, --- SPORTS TV ---
+
 #EXTINF:0,IT-SportItalia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6022.ts
 #EXTINF:0,IT-EuroSport
@@ -199,6 +205,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.ge
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/766.ts
 
 #EXTINF:0, --- News & Info ---
+
 #EXTINF:0,IT-Teleromagna News
 http://livetr.teleromagna.it/news/live/playlist.m3u8
 #EXTINF:0,IT-ESPERIA TV
@@ -227,6 +234,7 @@ rtmp://fl1.mediastreaming.it:1935/sienatv/livestream
 http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
  
 #EXTINF:0, --- Music TV ---
+
 #EXTINF:0, M2O TV
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0, FOR MUSIC TV
