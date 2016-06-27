@@ -2,23 +2,23 @@
 #EXTINF:0, --- PREMIUM TV ---
 
 #EXTINF:0,IT-Mediaset Italia 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/thatcher/thatcher/6047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/1679.ts
 #EXTINF:0,IT-Mediaset Italia 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/1620.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2023.ts
 #EXTINF:0,IT-Mediaset Iris HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/1619.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/1650.ts
 #EXTINF:0,IT-Mediaset 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6061.ts
 #EXTINF:0,IT-Sky UNO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6023.ts
 #EXTINF:0,IT-Super! HD
-http://195.12.170.153:8003/play/IT-Sky-UnoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2034.ts
 #EXTINF:0,IT-Rai-1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/348.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/192.ts
 #EXTINF:0,IT-Rai-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6037.ts
 #EXTINF:0,IT-Rai-3
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/194.ts
 #EXTINF:0,IT-Rai-4
 http://originstream12.rai.it/italy/smil:rai4.smil/master.m3u8
 #EXTINF:0,IT-Rai-5
@@ -36,7 +36,7 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:0,Rai Gulp TV
 mmsh://212.162.68.162:80/Rai_gulp
 #EXTINF:0,Rai Gulp TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2030.ts
 #EXTINF:0,IT-Rsi La 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6029.ts
 #EXTINF:0,IT-La 5
@@ -54,13 +54,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.ge
 #EXTINF:0, K2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6046.ts
 #EXTINF:0, Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2667.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2042.ts
 #EXTINF:0, Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2670.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2031.ts
 #EXTINF:0, Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2665.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0, Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/901.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/218.ts
 
 #EXTINF:0, --- Misc Channels ---
 
@@ -110,7 +110,7 @@ http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 #EXTINF:0, --- Movie Channels ---
 
 #EXTINF:0,IT-Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/899.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/1506.ts
 #EXTINF:0,IT-Paramount HD
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:0,IT-Premium Action HD
@@ -124,7 +124,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbsh
 #EXTINF:0,IT-Premium-Crime HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6010.ts
 #EXTINF:0,IT-Premium Cinema Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/1512.ts
 #EXTINF:0,IT-Premium Cinema HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6014.ts
 #EXTINF:0,IT-Premium Cinema Energy
@@ -151,17 +151,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.ge
 #EXTINF:0, --- Documentary & Lifestyle ---
 
 #EXTINF:0,IT-Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2671.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0,IT-NAT-GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/906.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0,IT-NAT-GEO People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/907.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0,IT-Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/Mark/Mark/6058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/1513.ts
 #EXTINF:0,IT-Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/780.ts
-#EXTINF:0,IT-Discovery Focus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2060.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:0,IT-Discovery Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/mike/mike1/2039.ts
 #EXTINF:0,IT-MarcoPolo
 http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0,IT-TSN Livigno
