@@ -63,9 +63,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, The Weather Channel
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/33/chunklist.m3u8
 #EXTINF:0, CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/segment1823094_1200_av-p.ts?sd=10
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 #EXTINF:0, MSNBC
-http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/segment5098645_1200_av-b.ts?sd=10
+http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
 #EXTINF:0, ESPN
 http://176.31.231.58/p2p/aca0a31d14c85e19f7023c9a3889f37b.m3u8?st=Zqpi8w4Jirhthl4snNcxcA&e=1467512609
 #EXTINF:0, BT Sport 1
