@@ -1,63 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, CBS
-http://176.31.231.58/p2p/4d0fadca2686a2cdd4a4a6623212449c.m3u8?st=zU_GS0uktmMtTtGDwcqgsw&e=1467510204 
-#EXTINF:0, CW
-http://46.105.119.117/p2p/296e56c668bc8bd6b0044d3e4f034153.m3u8?st=MI6EoaAF8TkuxlydK6z_8w&e=1467510522
-#EXTINF:0, My9
-http://178.33.231.148/p2p/f55025e27be5231454658cc200a5565e.m3u8?st=200mnrBQ-eCzhm5tHuM3CQ&e=1467510596
-#EXTINF:0, A&E
-http://5.196.85.47/p2p/ce425ca32dea0f37b22717ae989bcffb.m3u8?st=QyFq_XbbVz9VDNDapR1yPA&e=1467510239
-#EXTINF:0, AMC
-http://5.196.85.58/p2p/b06316b29b6c788ecf95287567cb2a3a.m3u8?st=A6rKZ4MACn-ndIVrQagtwQ&e=1467510698
-#EXTINF:0, Animal Planet
-http://192.99.19.181/p2p/a0f8ddb8c8251a68f136648b32c0f62d.m3u8?st=rvuewsecofr1ExinYuE7Rw&e=1467510827
-#EXTINF:0, Bravo
-http://5.196.85.58/p2p/582b19f3ef5459a2f139ec69ee2053d0.m3u8?st=w_W_eWdDopK66Qzv-Q6hHw&e=1467510823
-#EXTINF:0, Comedy Central
-http://167.114.159.23/p2p/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8?st=K0R6ZeOFf94Lcm8QcCWDGA&e=1467510944
-#EXTINF:0, Cartoon Network
-http://192.99.149.33/p2p/720933e62452d65671c676a065c18192.m3u8?st=COuSDmjRnGw8eubGmUPTvA&e=1467510938
-#EXTINF:0, Discovery USA
-http://151.80.101.226/p2p/075d66993151c178df1ed9840202d983.m3u8?st=Aw86hJkgNg6bcp_1YuVdgg&e=1467510701
-#EXTINF:0, F/X
-http://167.114.159.80/p2p/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8?st=7E-pP9LEjRYss-7KELkuWw&e=1467511212
-#EXTINF:0, Lifetime
-http://46.105.119.117/p2p/171879baa092ef14d5ec8f401aeaffcd.m3u8?st=2itpkOuJAjoXmXAqVWYMOg&e=1467510777
-#EXTINF:0, Nat Geo
-http://178.33.231.148/p2p/be2fa358e4f1c9a0ee833aa15f829f81.m3u8?st=pnM1ywRs2uUsJrtKnmNnyw&e=1467511297
-#EXTINF:0, Nickelodeon
-http://5.196.85.47/p2p/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8?st=5c70x2Xa42mlg2f4JESeUg&e=1467510870
-#EXTINF:0, SPIKE
-http://51.254.43.148/p2p/744a2e6d638ef5996394717e9e871717.m3u8?st=7pFfJyXsT-OhzL9a-fVbPg&e=1467510939
-#EXTINF:0, SYFY
-http://167.114.159.80/p2p/d8320fedb4a90fb06c9f7bff96a7e619.m3u8?st=QMJAxbxONIH-zO76iXg9Rw&e=1467511039
-#EXTINF:0, TBS
-http://192.99.19.176/p2p/d377ff63e9e229343418ba065acb643f.m3u8?st=wDEcVVZGPEmFffKw742Ycg&e=1467511078
-#EXTINF:0, TNT
-http://167.114.159.80/p2p/e00dd9ccbf6cba8e47ca458993f307c1.m3u8?st=dJ45CvfDDzB9CM3IU4jIDw&e=1467511519
-#EXTINF:0, USA
-http://5.196.86.78/p2p/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8?st=2f2iKxh4xc84ARNs9kst5Q&e=1467511248
-#EXTINF:0, ABC
-http://5.196.85.47/p2p/598d34aff61b9e13ca903a10b5221114.m3u8?st=Z08EM6jkAzPBpJMLrx72VQ&e=1467511183
-#EXTINF:0, HBO
-http://167.114.159.80/p2p/509e5f41146e278f9eab1ddaceb34515.m3u8?st=jGEgW7B13HVJ4ZSwTWfryA&e=1467511631
-#EXTINF:0, CBS Alternate
-http://5.196.85.58/p2p/250c51527f347066847969f002be67a2.m3u8?st=N7_mkOpSr9O0-88-wBiceg&e=1467511260
-#EXTINF:0, Nat Geo Wild
-http://5.196.85.47/p2p/acf9249594df8395d62a4fee0dd484cb.m3u8?st=42uy6iLm766lXfGqeFPJzw&e=1467511383
-#EXTINF:0, Discovery UK
-http://192.99.19.181/p2p/c283a671e1189d568500d494ff8cd77d.m3u8?st=kH9cVTypnKyp-97tBEHiyw&e=1467511439
-#EXTINF:0, Playboy
-http://46.105.119.117/p2p/60cc166ceaea0dd567f9f909f12743e1.m3u8?st=lNwr9sVlTd9wz0HnEIugsA&e=1467511898
-#EXTINF:0, Hustler UK
-http://178.33.231.148/p2p/dcd83748a61b77531c01b4c283dacb81.m3u8?st=baNjfJn4_197TKqEGoAkUg&e=1467512001
-#EXTINF:0, CNBC
-http://192.99.19.181/p2p/0fa1864db527d3de89020cb06a050b35.m3u8?st=L7GQ5qaCGOr3IWO9ra-ANg&e=1467512087
-#EXTINF:0, CNN
-http://192.99.19.181/p2p/fb655e03035550c14fc2bcc65d40cff8.m3u8?st=bYX71FRdiPHyhQPgSyvUmA&e=1467511722
-#EXTINF:0, FOX News
-http://178.33.231.148/p2p/877e1fd192b3a58577e4387971c215a7.m3u8?st=qUYE1NkH9y5E5JgKJgeUHw&e=1467511770
+
 #EXTINF:0, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, The Weather Channel
@@ -66,47 +9,29 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 #EXTINF:0, MSNBC
 http://msnbc2prod-lh.akamaihd.net/i/msnbc2_live01@9615/index_1200_av-b.m3u8
-#EXTINF:0, ESPN
-http://176.31.231.58/p2p/aca0a31d14c85e19f7023c9a3889f37b.m3u8?st=Zqpi8w4Jirhthl4snNcxcA&e=1467512609
-#EXTINF:0, BT Sport 1
-http://51.254.43.148/p2p/feb9c19124327ffd2bae3c97249ea40e.m3u8?st=7Y4SDtm4NfjPVq5fG-UOnQ&e=1467512948
-#EXTINF:0, BT Sport 2
-http://51.254.43.148/p2p/a0baff4a9870ad57efd54f32cf8be880.m3u8?st=MIw3m56GTPUZcG_n56YGvg&e=1467513071
-#EXTINF:0, NBC
-http://192.99.19.181/p2p/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8?st=9J-j1ouWs-WsWqg8I4jlOA&e=1467511722
-#EXTINF:0, WWE
-http://178.33.231.148/p2p/cd61f0ea3b560a665ea813dab2505a2f.m3u8?st=4ZttIKaEmk_-oyHVa-R-3g&e=1467512671
-#EXTINF:0, ESPN 2
-http://5.196.85.47/p2p/7a39b11b9af247053ebd637ff1ca9db8.m3u8?st=1hRMe8JPYVsjlA_k0krkmw&e=1467512719
-#EXTINF:0, FS1
-http://176.31.231.58/p2p/c1ba19187bba4d273cdc877dc413564a.m3u8?st=l4LxgXKS-gqItq9PUOD7lQ&e=1467513248
 #EXTINF:0, FS1 Alternate
 http://93.115.7.194:8081/liverepeater/55c25729d2106/index.m3u8wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTYgMTA6MjM6MDIgUE0maGFzaF92YWx1ZT01enh2VEY4azRTQTZnMTk5T1RWb0pnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:0, Fox Sports 2
-http://5.196.85.47/p2p/b543594967ce3122d04138e344cdcff2.m3u8?st=412h2gboivOI2a8jyRZRcw&e=1467513284
-#EXTINF:0, MLB Network
-http://5.196.85.47/p2p/fdfa99e57d0b886df98fa16b8cefa2b8.m3u8?st=zH-jLV-n80Cwe_tfnCwFvw&e=1467512975
-#EXTINF:0, NBCSN
-http://176.31.231.58/p2p/e4d6b46ca81b601fe8461b43f641488c.m3u8?st=5oPVzAv9TAPguH055y-CWg&e=1467513210
-#EXTINF:0, CSN
-http://176.31.237.61/p2p/877ad69c810ccc693b207cf11badc04a.m3u8?st=Yfykyvga17aT4jOxHFDDXg&e=1467513258
-#EXTINF:0, Sportsnet 360
-http://178.33.231.148/p2p/a2b655b0f54f8fdd0c5640acbf1378a3.m3u8?st=6SVD5ItKrYgFj22eRKuK0A&e=1467513309
-#EXTINF:0, Sportsnet Ontario
-http://51.254.43.148/p2p/cc3c73333d405c31fef0b6247be099df.m3u8?st=FonPanqrtDv_piLO_7mcmA&e=1467513364
-#EXTINF:0, Sportsnet World
-http://167.114.159.80/p2p/ac090b774d01536fce7dc4e4a08abf25.m3u8?st=3vMow_Sj4RzCcIQdIfl1cA&e=1467513535
-#EXTINF:0, TSN 1
-http://51.254.43.148/p2p/40beacf01f852160e0d3cf1d962449e6.m3u8?st=KelCIzrSgNW3wbhDjh8CQA&e=1467513485
-#EXTINF:0, TSN 2
-http://46.105.119.117/p2p/bc42f627a6254b12a10dd090a8c7ff42.m3u8?st=QofI8f8ihf2V-VjvBOCoJQ&e=1467513633
-#EXTINF:0, TSN 3
-http://176.31.231.58/p2p/418e4380e1577624622d91b6a1997e5b.m3u8?st=2f9ZYhh-rH3F_fzbXYegpw&e=1467513987
-#EXTINF:0, TSN 4
-http://151.80.101.226/p2p/217ba763c8f90807fe76de76e36be045.m3u8?st=I4z2ibqYDBP2MwG-vhZ36w&e=1467514098
-#EXTINF:0, TSN 5
-http://192.99.19.176/p2p/feca97a90c0adc74a57a8a3c1e93a4df.m3u8?st=nwtLVWuTKXN7QMmH9Q3Sqg&e=1467513668
 #EXTINF:0, GFL Combat
 http://live-1124.la2.edge.filmon.com/live/3251.high.stream/playlist.m3u8?
 #EXTINF:0, Motorz
 http://live-823.gv2.edge.filmon.com/live/262.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7303d72159b420d87bd73cb5d9eb77a46e1d7fdb352c00d6a9fb60e2ed536c21c6a86bcbe56bd567bd00e575609feeb861fa391462c13ab4c343b6839312d18986d0b811f5fbca6989c9f37bcc525b31ac4c297d4cd2f62c4ec975b4a1dd86f0791f04bdd358d34d45772f60c17943cdb8516fd84c1bbe03a320b226464df305618a787508aacf83f72a3d4b3e1351aa
+#EXTINF:-1,BT Sports 1
+http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
+#EXTINF:-1,BT Sports 2
+http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+#EXTINF:-1,Sentanta sports
+http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
+#EXTINF:-1,Premier Sports
+http://149.202.85.84:8080/peemrie/counter1/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
