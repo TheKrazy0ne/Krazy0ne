@@ -2,9 +2,9 @@
 #EXTINF:0, --- PREMIUM TV ---
 
 #EXTINF:0,IT-Mediaset Italia 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/669.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/669.m3u8
 #EXTINF:0,IT-Mediaset Rete 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/670.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/670.m3u8
 #EXTINF:0,IT-Mediaset Iris HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/620.ts
 #EXTINF:0,IT-Mediaset 5 HD
@@ -46,7 +46,7 @@ http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/master.m3u8
 #EXTINF:0,IT-La 7d
 http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
 #EXTINF:0, Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/74.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/74.m3u8
 
 
 #EXTINF:0, --- Childrens TV ----
@@ -116,7 +116,7 @@ http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:0,IT-Premium Cinema Emotion HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/651.ts
 #EXTINF:0,IT-Cinema Passion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/462.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/462.m3u8
 #EXTINF:0,IT-Premium-Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/566.ts
 #EXTINF:0,IT-Premium-Joi
@@ -128,27 +128,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalst
 #EXTINF:0,IT-Premium Cinema Comedy HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/656.ts
 #EXTINF:0,IT-Premium Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/759.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/759.m3u8
 #EXTINF:0,IT-Premium Cinema HD +24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/760.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/760.m3u8
 #EXTINF:0,IT-Premium Cinema 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/59.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/59.m3u8
 #EXTINF:0,IT-Sky Cinema Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/750.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/750.m3u8
 #EXTINF:0,IT-Sky Cinema Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/752.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/752.m3u8
 #EXTINF:0,IT-Sky Cinema Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/749.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/749.m3u8
 #EXTINF:0,IT-Sky Cinema Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/751.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/751.m3u8
 #EXTINF:0,IT-Sky Cinema Classics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/755.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/755.m3u8
 #EXTINF:0,IT-Sky Cinema 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/748.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/748.m3u8
 #EXTINF:0,IT-Sky Cinema Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/61.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/61.m3u8
 #EXTINF:0,IT-Primafilia Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/68.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/68.m3u8
 
 #EXTINF:0, --- Documentary & Lifestyle ---
 
@@ -159,7 +159,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalst
 #EXTINF:0,IT-NAT-GEO People
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/636.ts
 #EXTINF:0,IT-Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/761.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/761.m3u8
 #EXTINF:0,IT-Discovery HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:0,IT-Discovery Travel & Living
@@ -204,9 +204,9 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 #EXTINF:0,IT-Premium Sport 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globalstream.noip.us:8000/live/test/test/616.ts
 #EXTINF:-1,IT-Sky-SportF1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/765.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/765.m3u8
 #EXTINF:-1,IT-SkyMotoGPHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/766.ts
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/766.m3u8
 
 #EXTINF:0, --- News & Info ---
 
